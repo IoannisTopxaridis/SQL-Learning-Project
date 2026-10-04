@@ -2,9 +2,9 @@
 
 SQL fundamentals to advanced database concepts in MySQL.
 
-## Basics & Tables
 
-Manage databases and tables:
+## Basics & Tables
+Manage databases and tables
 
 ### Database operations
 CREATE, USE and DROP DATABASE
@@ -12,27 +12,49 @@ CREATE, USE and DROP DATABASE
 ### Table operations
 CREATE, INSERT and DROP TABLE
 
+
 ## Constraints & Altering
-### Primary Key & Constraints with  PRIMARY KEY and CHECK
+Control data and modify tables
 
-### Modify existing tables with ALTER TABLE
+### Primary Key & Constraints
+PRIMARY KEY and CHECK
+
+### Modify existing tables
+ALTER TABLE
 
 
+## String Functions
+Useful functions for manipulating text
 
-String Functions
+### CONCAT(), REPLACE(),CHAR_LENGTH()
 
-Dates & Times
 
-Aggregations & Grouping
+## Dates & Times
+Working with timestamps and dates
 
- Filtering & Logic
+NOW(), CURDATE() and CURTIME()
 
-Joins & Relationships
+### Extracting date parts
+DAY(birth), MONTH(birth), YEAR(birth) 
 
-** Advanced Features**
 
-Window Functions
+## Aggregations & Grouping
 
- Views
 
- Triggers
+## Filtering & Logic
+
+
+## Joins & Relationships
+
+
+# Advanced Features
+
+
+## Window Functions
+
+
+##  Views
+
+
+## Triggers
+

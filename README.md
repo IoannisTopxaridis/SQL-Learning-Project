@@ -8,10 +8,10 @@ SQL fundamentals to advanced database concepts in MySQL.
 Manage databases and tables
 
 ### 🗄️ Database Operations
-* `CREATE DATABASE`, `USE`, and `DROP DATABASE`[cite: 1]
+* `CREATE DATABASE`, `USE`, and `DROP DATABASE`
 
 ### 📋 Table Operations
-* `CREATE TABLE`, `INSERT INTO`, `DESCRIBE`, and `DROP TABLE`[cite: 1]
+* `CREATE TABLE`, `INSERT INTO`, `DESCRIBE`, and `DROP TABLE`
 
 ---
 
@@ -19,7 +19,7 @@ Manage databases and tables
 Control data integrity and modify tables
 
 ### 🔑 Primary Key & Constraints
-* `PRIMARY KEY`, `AUTO_INCREMENT`, `NOT NULL`, `DEFAULT`, `UNIQUE`, and `CHECK`[cite: 1]
+* `PRIMARY KEY`, `AUTO_INCREMENT`, `NOT NULL`, `DEFAULT`, `UNIQUE`, and `CHECK`
 
 ### 🛠️ Modify Existing Tables
 * `ALTER TABLE` (`ADD`, `DROP`, `RENAME COLUMN`, `MODIFY`, `CHANGE`)[cite: 1]

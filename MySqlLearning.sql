@@ -1130,4 +1130,5 @@ show triggers;
 drop trigger self_follow;
 
 
-
+SELECT @@session.sql_mode;
+SELECT @@GLOBAL.sql_mode;

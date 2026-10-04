@@ -13,9 +13,9 @@ CREATE, USE and DROP DATABASE
 CREATE, INSERT and DROP TABLE
 
 ## Constraints & Altering
-###Primary Key & Constraints with  PRIMARY KEY and CHECK
+### Primary Key & Constraints with  PRIMARY KEY and CHECK
 
-###Modify existing tables with ALTER TABLE
+### Modify existing tables with ALTER TABLE
 
 
 

@@ -1,7 +1,16 @@
 # My SQL Learning Notes
-SQL fundamentals
 
-Manage databases and tables
+SQL fundamentals to advanced database concepts in MySQL.
+
+## Basics & Tables
+
+Manage databases and tables:
+
+-- Database operations
+CREATE, USE and DROP DATABASE
+
+-- Table operations
+CREATE, INSERT and DROP TABLE
 
 Constraints & Altering
 

@@ -114,5 +114,5 @@ Automatic actions executed before or after database events
 Modify SQL capabilities, safety guards, and server modes
 
 ### Safe Updates & Modes
-* `SET SQL_SAFE_UPDATES = 0;` / `1;` (Disables or enables restrictions on unsafe `UPDATE` and `DELETE` queries)
-* `SELECT @@GLOBAL.sql_mode;` and `SELECT @@session.sql_mode;` (Inspect and update strict database validation rules)
+* `SELECT @@GLOBAL.sql_mode;` and `SELECT @@session.sql_mode;`
+* `SET SQL_SAFE_UPDATES = 0;` / `1;`

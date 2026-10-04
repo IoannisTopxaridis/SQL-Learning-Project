@@ -6,13 +6,13 @@ SQL fundamentals to advanced database concepts in MySQL.
 
 Manage databases and tables:
 
--- Database operations
+### Database operations
 CREATE, USE and DROP DATABASE
 
--- Table operations
+### Table operations
 CREATE, INSERT and DROP TABLE
 
-Constraints & Altering
+## Constraints & Altering
 
 String Functions
 
